@@ -1,0 +1,26 @@
+{
+  "name": "prediction-market-fantasy",
+  "version": "1.0.0",
+  "description": "CodeBox project (WIP).",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebox-calpoly/prediction-market-fantasy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/codebox-calpoly/prediction-market-fantasy/issues"
+  },
+  "homepage": "https://github.com/codebox-calpoly/prediction-market-fantasy#readme"
+}
